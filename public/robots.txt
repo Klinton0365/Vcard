@@ -1,0 +1,3 @@
+Sitemap: http://vcard.justdeall.in/sitemap.xml
+User-agent: *
+Disallow:
